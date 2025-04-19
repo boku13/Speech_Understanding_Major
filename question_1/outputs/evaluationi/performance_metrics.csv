@@ -1,0 +1,6 @@
+Metric,Value,Category
+WER,0.283712774515152,Transcription
+CER,0.05299999937415123,Transcription
+MOS,1.0673280667758172,Audio Quality
+SNR (dB),0.5074118971824646,Audio Quality
+PESQ,1.6088569164276123,Audio Quality
