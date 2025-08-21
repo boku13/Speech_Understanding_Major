@@ -1,7 +1,3 @@
-Of course\! Here is a well-structured README file for your GitHub repository based on the provided report.
-
------
-
 # Speech Understanding Major Project 🎤
 
 This repository contains the coursework, experiments, and findings for my Speech Understanding course at IIT Jodhpur. The project explores practical applications and future challenges in speech processing, covering transcription, low-resource text-to-speech (TTS), audio denoising, and a proposal for a novel research problem.
